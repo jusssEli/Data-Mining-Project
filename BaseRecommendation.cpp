@@ -10,6 +10,25 @@
 
 using namespace std;
 
+struct Rule
+{
+    set<string> precedent_;
+    set<string> antecendent_;
+    double confidence_;
+
+    bool operator<(Rule const &other) const
+    {
+        if (precedent_ <= other.precedent_)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+};
+
 vector<set<string>> readTransactions(const string &filename)
 {
     ifstream infile(filename);
@@ -21,6 +40,7 @@ vector<set<string>> readTransactions(const string &filename)
         set<string> transaction;
         size_t start = 0, end;
 
+        // split the line by spaces
         while ((end = line.find(' ', start)) != string::npos)
         {
             string item = line.substr(start, end - start);
@@ -29,6 +49,7 @@ vector<set<string>> readTransactions(const string &filename)
             start = end + 1;
         }
 
+        // Add the last item (or the only item if no spaces)
         string lastItem = line.substr(start);
         if (!lastItem.empty())
             transaction.insert(lastItem);
@@ -134,15 +155,47 @@ int main()
         all_frequent.insert(all_frequent.end(), Lk.begin(), Lk.end());
     }
 
-    cout << "Frequent Itemsets:\n";
-    for (auto &itemset : all_frequent)
+    multiset<Rule> Rules;
+    int maxCount = all_frequent[all_frequent.size() - 1].size();
+    for (auto &itemset_prec : all_frequent)
     {
+        for (auto &itemset_ant : all_frequent)
+        {
+            if (itemset_prec.size() != maxCount && itemset_prec != itemset_ant)
+            {
+                int searchSize = maxCount - itemset_prec.size();
+                if (itemset_ant.size() < searchSize)
+                {
+                    Rule newRule;
+                    newRule.precedent_ = itemset_prec;
+                    newRule.antecendent_ = itemset_ant;
+                    Rules.insert(newRule);
+                }
+            }
+        }
+    }
+
+    cout << "Recommender Rules:\n";
+    for (auto &rule : Rules)
+    {
+        cout << "{ ";
+        for (auto &item : rule.precedent_)
+            cout << item << " ";
+        cout << "} -> { ";
+        for (auto &item : rule.antecendent_)
+            cout << item << " ";
+        cout << "}\n";
+    }
+
+    /*
+    cout << "Frequent Itemsets:\n";
+    for (auto& itemset : all_frequent) {
         double support = (support_map[itemset] * 100.0) / num_transactions;
         cout << "{ ";
-        for (auto &item : itemset)
+        for (auto& item : itemset)
             cout << item << " ";
-        cout << "} -> Support: " << fixed << setprecision(0) << support / 10 << " or " << support << "%\n";
-    }
+        cout << "} -> Support: " << fixed << setprecision(0) << support/10 << " or " << support << "%\n";
+    }*/
 
     return 0;
 }
