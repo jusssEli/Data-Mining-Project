@@ -37,12 +37,15 @@ vector<set<string>> readTransactions(const string &filename)
         set<string> transaction;
         size_t start = 0, end;
 
+        int NameCount = 0;
+
         // split the line by spaces
         while ((end = line.find(' ', start)) != string::npos)
         {
             string item = line.substr(start, end - start);
-            if (!item.empty())
+            if (!item.empty() && NameCount >= 2)
                 transaction.insert(item);
+            ++NameCount;
             start = end + 1;
         }
 
@@ -131,7 +134,7 @@ vector<set<string>> aprioriGen(const vector<set<string>> &Lprev)
 int main()
 {
 
-    string filename = "input.txt";
+    string filename = "transactions.txt";
     double min_support_percent = 0;
 
     vector<set<string>> transactions = readTransactions(filename);
