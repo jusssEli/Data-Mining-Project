@@ -1,6 +1,6 @@
 Evelyn Green Bluetooth-Over-Ear-Headphones Phone-Grip-PopSocket Portable-Power-Bank
-Elijah Thompson Charger-(Wall Adapter) Smartphone Tablet Bluetooth-Over-Ear-Headphones Phone-Case
-Aria Walker Bluetooth-Over-Ear-Headphones Wireless-Charger Charger-(Wall Adapter)
+Elijah Thompson Charger-(Wall-Adapter) Smartphone Tablet Bluetooth-Over-Ear-Headphones Phone-Case
+Aria Walker Bluetooth-Over-Ear-Headphones Wireless-Charger Charger-(Wall-Adapter)
 Nora Martinez Bluetooth-Earbuds Wireless-Charger Portable-Power-Bank
 Ella Bailey Smartphone Portable-Power-Bank Bluetooth-Over-Ear-Headphones Charging-Cable-(USB-C/Lightning)
 Jacob Allen Smartphone Bluetooth-Over-Ear-Headphones Portable-Power-Bank Phone-Case Charging-Cable-(USB-C/Lightning)
@@ -24,7 +24,7 @@ Harper Lewis Bluetooth-Earbuds Smartphone Screen-Protector
 Amelia Torres Smartphone Phone-Case Portable-Power-Bank Smartwatch
 Nora Walker Bluetooth-Over-Ear-Headphones Wireless-Charger Screen-Protector
 Mason Cooper Tablet Smartphone Wireless-Charger
-Victoria Evans Smartwatch Portable-Power-Bank Wireless-Charger Charger-(Wall Adapter) Bluetooth-Earbuds
+Victoria Evans Smartwatch Portable-Power-Bank Wireless-Charger Charger-(Wall-Adapter) Bluetooth-Earbuds
 Sophia Martinez Bluetooth-Earbuds Smartphone Portable-Power-Bank
 Alexander Nelson Wireless-Charger Portable-Power-Bank Phone-Grip-PopSocket Bluetooth-Earbuds
 Wyatt King Smartphone Bluetooth-Over-Ear-Headphones
@@ -42,7 +42,7 @@ Grace Moore Wireless-Charger Smartphone Bluetooth-Earbuds Phone-Grip-PopSocket
 Henry Lee Portable-Power-Bank Tablet Bluetooth-Over-Ear-Headphones Phone-Case
 Riley Morris Smartphone Bluetooth-Earbuds
 Emma Richardson Phone-Grip-PopSocket Portable-Power-Bank
-Hudson King Bluetooth-Over-Ear-Headphones Smartphone Charger-(Wall Adapter)
+Hudson King Bluetooth-Over-Ear-Headphones Smartphone Charger-(Wall-Adapter)
 Sophia Adams Charging-Cable-(USB-C/Lightning) Wireless-Charger Portable-Power-Bank Screen-Protector Smartphone
 Wyatt Johnson Bluetooth-Over-Ear-Headphones Tablet Portable-Power-Bank Smartwatch
 Charlotte Brown Wireless-Charger Charging-Cable-(USB-C/Lightning) Portable-Power-Bank
@@ -51,10 +51,10 @@ Ethan Adams Smartphone Wireless-Charger Portable-Power-Bank Phone-Case
 Jayden Evans Tablet Screen-Protector Phone-Grip-PopSocket Bluetooth-Earbuds Smartphone Smartwatch
 Daniel White Bluetooth-Over-Ear-Headphones Wireless-Charger
 Evelyn Martinez Smartphone Portable-Power-Bank Screen-Protector Smartwatch
-Victoria Lewis Phone-Grip-PopSocket Smartwatch Charger-(Wall Adapter)
+Victoria Lewis Phone-Grip-PopSocket Smartwatch Charger-(Wall-Adapter)
 Chloe Thompson Bluetooth-Earbuds Bluetooth-Over-Ear-Headphones Phone-Case
 Emma Turner Charging-Cable-(USB-C/Lightning) Smartphone
-Elijah Parker Smartwatch Wireless-Charger Charger-(Wall Adapter)
+Elijah Parker Smartwatch Wireless-Charger Charger-(Wall-Adapter)
 Henry Martinez Smartphone Wireless-Charger Portable-Power-Bank Screen-Protector
 Penelope Davis Bluetooth-Over-Ear-Headphones Portable-Power-Bank
 Grace Baker Smartphone Portable-Power-Bank Phone-Grip-PopSocket Bluetooth-Earbuds
@@ -91,5 +91,5 @@ Hudson Torres Tablet Bluetooth-Earbuds Screen-Protector Smartphone Bluetooth-Ove
 Grace Martinez Smartphone Bluetooth-Over-Ear-Headphones Portable-Power-Bank Tablet
 Aria Rogers Smartwatch Portable-Power-Bank
 James King Wireless-Charger Bluetooth-Over-Ear-Headphones
-Ella Robinson Portable-Power-Bank Smartphone Bluetooth-Earbuds Screen-Protector Charger-(Wall Adapter)
+Ella Robinson Portable-Power-Bank Smartphone Bluetooth-Earbuds Screen-Protector Charger-(Wall-Adapter)
 Evelyn Wright Tablet Bluetooth-Earbuds Phone-Case Phone-Grip-PopSocket Smartphone
