@@ -18,14 +18,11 @@ struct Rule
 
     bool operator<(Rule const &other) const
     {
-        if (precedent_ <= other.precedent_)
-        {
+        if (precedent_ < other.precedent_)
             return true;
-        }
-        else
-        {
+        if (other.precedent_ < precedent_)
             return false;
-        }
+        return antecendent_ < other.antecendent_;
     }
 };
 
@@ -161,10 +158,19 @@ int main()
     {
         for (auto &itemset_ant : all_frequent)
         {
-            if (itemset_prec.size() != maxCount && itemset_prec != itemset_ant)
+            bool includes = false;
+            for (auto &item : itemset_prec)
+            {
+                if (itemset_ant.count(item) > 0)
+                {
+                    includes = true;
+                    break;
+                }
+            }
+            if (itemset_prec.size() < maxCount && !includes)
             {
                 int searchSize = maxCount - itemset_prec.size();
-                if (itemset_ant.size() < searchSize)
+                if (itemset_ant.size() <= searchSize)
                 {
                     Rule newRule;
                     newRule.precedent_ = itemset_prec;
@@ -186,16 +192,6 @@ int main()
             cout << item << " ";
         cout << "}\n";
     }
-
-    /*
-    cout << "Frequent Itemsets:\n";
-    for (auto& itemset : all_frequent) {
-        double support = (support_map[itemset] * 100.0) / num_transactions;
-        cout << "{ ";
-        for (auto& item : itemset)
-            cout << item << " ";
-        cout << "} -> Support: " << fixed << setprecision(0) << support/10 << " or " << support << "%\n";
-    }*/
 
     return 0;
 }
