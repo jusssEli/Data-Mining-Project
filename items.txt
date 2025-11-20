@@ -1,12 +1,12 @@
 Smartphone
-Phone Case
-Screen Protector
-Charger (Wall Adapter)
-Charging Cable (USB-C / Lightning)
-Wireless Charger
-Portable Power Bank
-Phone Grip / PopSocket
-Bluetooth Earbuds
-Bluetooth Over-Ear Headphones
+Phone_Case
+Screen_Protector
+Charger_(Wall_Adapter)
+Charging_Cable_(USB-C_/_Lightning)
+Wireless_Charger
+Portable_Power_Bank
+Phone_Grip 
+Bluetooth_Earbuds
+Bluetooth_Over-Ear_Headphones
 Smartwatch
 Tablet
