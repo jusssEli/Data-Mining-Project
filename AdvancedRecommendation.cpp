@@ -8,7 +8,7 @@ using namespace std;
 int main() {
     ifstream infile("transactions1.txt"); 
     if (!infile.is_open()) {
-        cerr << "ERROR: Could not open transaction_no_email.txt" << endl;
+        cerr << "ERROR: Could not open transactions1.txt" << endl;
         return 1;
     }
 
