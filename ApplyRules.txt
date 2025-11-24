@@ -1,0 +1,71 @@
+Recommender Rules:
+{ Bluetooth_Earbuds Bluetooth_Over-Ear_Headphones } -> { Screen_Protector } : Confidence: 55.5556
+{ Bluetooth_Earbuds Charger_(Wall_Adapter) } -> { Tablet } : Confidence: 57.1429
+{ Bluetooth_Earbuds Charging_Cable_(USB-C_/_Lightning) } -> { Phone_Case } : Confidence: 66.6667
+{ Bluetooth_Earbuds Phone_Case } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 60
+{ Bluetooth_Earbuds Screen_Protector } -> { Bluetooth_Over-Ear_Headphones } : Confidence: 50
+{ Bluetooth_Earbuds Smartwatch } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 50
+{ Bluetooth_Earbuds Smartwatch } -> { Tablet } : Confidence: 50
+{ Bluetooth_Earbuds Smartwatch } -> { Wireless_Charger } : Confidence: 50
+{ Bluetooth_Over-Ear_Headphones Charger_(Wall_Adapter) } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 83.3333
+{ Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) } -> { Phone_Case } : Confidence: 50
+{ Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) } -> { Screen_Protector } : Confidence: 50
+{ Bluetooth_Over-Ear_Headphones Phone_Case } -> { Bluetooth_Earbuds } : Confidence: 50
+{ Bluetooth_Over-Ear_Headphones Phone_Case } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 75
+{ Bluetooth_Over-Ear_Headphones Phone_Case } -> { Screen_Protector } : Confidence: 62.5
+{ Bluetooth_Over-Ear_Headphones Portable_Power_Bank } -> { Screen_Protector } : Confidence: 57.1429
+{ Bluetooth_Over-Ear_Headphones Screen_Protector } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 54.5455
+{ Bluetooth_Over-Ear_Headphones Smartphone } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 71.4286
+{ Bluetooth_Over-Ear_Headphones Smartphone } -> { Screen_Protector } : Confidence: 57.1429
+{ Bluetooth_Over-Ear_Headphones Smartwatch } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 62.5
+{ Bluetooth_Over-Ear_Headphones Smartwatch } -> { Screen_Protector } : Confidence: 50
+{ Bluetooth_Over-Ear_Headphones Smartwatch } -> { Tablet } : Confidence: 50
+{ Bluetooth_Over-Ear_Headphones Tablet } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 55.5556
+{ Bluetooth_Over-Ear_Headphones Wireless_Charger } -> { Screen_Protector } : Confidence: 80
+{ Charger_(Wall_Adapter) Charging_Cable_(USB-C_/_Lightning) } -> { Bluetooth_Over-Ear_Headphones } : Confidence: 55.5556
+{ Charger_(Wall_Adapter) Smartwatch } -> { Phone_Case } : Confidence: 50
+{ Charging_Cable_(USB-C_/_Lightning) Phone_Case } -> { Screen_Protector } : Confidence: 50
+{ Charging_Cable_(USB-C_/_Lightning) Phone_Case Portable_Power_Bank } -> { Screen_Protector } : Confidence: 80
+{ Charging_Cable_(USB-C_/_Lightning) Phone_Case Screen_Protector } -> { Portable_Power_Bank } : Confidence: 57.1429
+{ Charging_Cable_(USB-C_/_Lightning) Phone_Grip } -> { Screen_Protector } : Confidence: 83.3333
+{ Charging_Cable_(USB-C_/_Lightning) Portable_Power_Bank } -> { Phone_Case } : Confidence: 71.4286
+{ Charging_Cable_(USB-C_/_Lightning) Portable_Power_Bank } -> { Phone_Case Screen_Protector } : Confidence: 57.1429
+{ Charging_Cable_(USB-C_/_Lightning) Portable_Power_Bank } -> { Screen_Protector } : Confidence: 71.4286
+{ Charging_Cable_(USB-C_/_Lightning) Portable_Power_Bank Screen_Protector } -> { Phone_Case } : Confidence: 80
+{ Charging_Cable_(USB-C_/_Lightning) Screen_Protector } -> { Bluetooth_Over-Ear_Headphones } : Confidence: 50
+{ Charging_Cable_(USB-C_/_Lightning) Screen_Protector } -> { Phone_Case } : Confidence: 58.3333
+{ Charging_Cable_(USB-C_/_Lightning) Smartphone } -> { Bluetooth_Over-Ear_Headphones } : Confidence: 50
+{ Charging_Cable_(USB-C_/_Lightning) Smartphone } -> { Screen_Protector } : Confidence: 50
+{ Phone_Case Phone_Grip } -> { Screen_Protector } : Confidence: 50
+{ Phone_Case Phone_Grip } -> { Smartwatch } : Confidence: 50
+{ Phone_Case Portable_Power_Bank } -> { Screen_Protector } : Confidence: 50
+{ Phone_Case Portable_Power_Bank Screen_Protector } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 66.6667
+{ Phone_Case Screen_Protector } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 63.6364
+{ Phone_Case Screen_Protector } -> { Portable_Power_Bank } : Confidence: 54.5455
+{ Phone_Case Smartphone } -> { Screen_Protector } : Confidence: 66.6667
+{ Phone_Case Tablet } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 55.5556
+{ Phone_Case Tablet } -> { Screen_Protector } : Confidence: 55.5556
+{ Phone_Grip Screen_Protector } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 62.5
+{ Phone_Grip Screen_Protector } -> { Phone_Case } : Confidence: 50
+{ Phone_Grip Screen_Protector } -> { Portable_Power_Bank } : Confidence: 50
+{ Phone_Grip Smartwatch } -> { Phone_Case } : Confidence: 57.1429
+{ Phone_Grip Smartwatch } -> { Portable_Power_Bank } : Confidence: 57.1429
+{ Phone_Grip Tablet } -> { Portable_Power_Bank } : Confidence: 71.4286
+{ Portable_Power_Bank Screen_Protector } -> { Phone_Case } : Confidence: 54.5455
+{ Portable_Power_Bank Wireless_Charger } -> { Phone_Case } : Confidence: 71.4286
+{ Screen_Protector Smartphone } -> { Bluetooth_Over-Ear_Headphones } : Confidence: 50
+{ Screen_Protector Smartphone } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 62.5
+{ Screen_Protector Smartphone } -> { Phone_Case } : Confidence: 50
+{ Screen_Protector Smartphone } -> { Wireless_Charger } : Confidence: 50
+{ Screen_Protector Smartwatch } -> { Bluetooth_Over-Ear_Headphones } : Confidence: 50
+{ Screen_Protector Smartwatch } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 50
+{ Screen_Protector Smartwatch } -> { Phone_Case } : Confidence: 50
+{ Screen_Protector Smartwatch } -> { Tablet } : Confidence: 50
+{ Screen_Protector Tablet } -> { Charging_Cable_(USB-C_/_Lightning) } : Confidence: 50
+{ Screen_Protector Tablet } -> { Phone_Case } : Confidence: 50
+{ Screen_Protector Tablet } -> { Portable_Power_Bank } : Confidence: 50
+{ Smartphone Smartwatch } -> { Tablet } : Confidence: 57.1429
+{ Smartphone Tablet } -> { Smartwatch } : Confidence: 57.1429
+{ Smartphone Wireless_Charger } -> { Screen_Protector } : Confidence: 66.6667
+{ Smartwatch Wireless_Charger } -> { Bluetooth_Earbuds } : Confidence: 57.1429
+{ Tablet Wireless_Charger } -> { Bluetooth_Earbuds } : Confidence: 83.3333

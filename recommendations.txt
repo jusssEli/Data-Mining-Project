@@ -1,0 +1,44 @@
+Aria Garcia: Purchased Items: Bluetooth_Earbuds Charging_Cable_(USB-C_/_Lightning) Phone_Case Smartwatch Tablet Wireless_Charger  Recommended Items: Screen_Protector 
+Aria Smith: Purchased Items: Phone_Case Phone_Grip Wireless_Charger  Recommended Items: Screen_Protector Smartwatch 
+Aria Wilson: Purchased Items: Charging_Cable_(USB-C_/_Lightning) Phone_Case Portable_Power_Bank Screen_Protector Smartphone  Recommended Items: Bluetooth_Over-Ear_Headphones Wireless_Charger 
+Ava Anderson: Purchased Items: Bluetooth_Over-Ear_Headphones Phone_Case Screen_Protector Smartphone Smartwatch Tablet  Recommended Items: Bluetooth_Earbuds Charging_Cable_(USB-C_/_Lightning) Portable_Power_Bank Wireless_Charger 
+Ava Brown: Purchased Items: Charging_Cable_(USB-C_/_Lightning) Phone_Grip Screen_Protector Smartphone Wireless_Charger  Recommended Items: Bluetooth_Over-Ear_Headphones Phone_Case Portable_Power_Bank 
+Ava Davis: Purchased Items: Bluetooth_Over-Ear_Headphones Charger_(Wall_Adapter) Charging_Cable_(USB-C_/_Lightning) Tablet Wireless_Charger  Recommended Items: Bluetooth_Earbuds Phone_Case Screen_Protector 
+Ava Smith: Purchased Items: Charging_Cable_(USB-C_/_Lightning) Portable_Power_Bank Screen_Protector Tablet  Recommended Items: Bluetooth_Over-Ear_Headphones Phone_Case 
+Ava Thomas: Purchased Items: Bluetooth_Over-Ear_Headphones Charger_(Wall_Adapter) Charging_Cable_(USB-C_/_Lightning) Smartwatch Tablet  Recommended Items: Phone_Case Screen_Protector 
+Ethan Anderson: Purchased Items: Phone_Grip Portable_Power_Bank Smartwatch Tablet  Recommended Items: Phone_Case 
+Ethan Miller: Purchased Items: Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) Phone_Grip Screen_Protector Smartphone Wireless_Charger  Recommended Items: Phone_Case Portable_Power_Bank 
+Ethan Smith: Purchased Items: Phone_Case Phone_Grip Portable_Power_Bank Screen_Protector Smartwatch Tablet  Recommended Items: Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) 
+Ethan Thomas: Purchased Items: Bluetooth_Earbuds Bluetooth_Over-Ear_Headphones Portable_Power_Bank Screen_Protector Tablet  Recommended Items: Charging_Cable_(USB-C_/_Lightning) Phone_Case 
+Liam Anderson: Purchased Items: Bluetooth_Earbuds Phone_Grip Smartwatch  Recommended Items: Charging_Cable_(USB-C_/_Lightning) Phone_Case Portable_Power_Bank Tablet Wireless_Charger 
+Liam Martinez: Purchased Items: Bluetooth_Earbuds Screen_Protector  Recommended Items: Bluetooth_Over-Ear_Headphones 
+Liam Smith: Purchased Items: Bluetooth_Earbuds Bluetooth_Over-Ear_Headphones Portable_Power_Bank Smartwatch Tablet  Recommended Items: Charging_Cable_(USB-C_/_Lightning) Screen_Protector Wireless_Charger 
+Lucas Anderson: Purchased Items: Charging_Cable_(USB-C_/_Lightning) Phone_Case Phone_Grip Portable_Power_Bank Screen_Protector Tablet  Recommended Items: Bluetooth_Over-Ear_Headphones Smartwatch 
+Lucas Brown: Purchased Items: Charging_Cable_(USB-C_/_Lightning) Smartwatch Wireless_Charger  Recommended Items: Bluetooth_Earbuds 
+Lucas Johnson: Purchased Items: Bluetooth_Earbuds Charger_(Wall_Adapter) Screen_Protector  Recommended Items: Bluetooth_Over-Ear_Headphones Tablet 
+Lucas Miller: Purchased Items: Charger_(Wall_Adapter) Phone_Case Phone_Grip Smartwatch  Recommended Items: Portable_Power_Bank Screen_Protector 
+Lucas Wilson: Purchased Items: Charging_Cable_(USB-C_/_Lightning) Portable_Power_Bank Smartphone Smartwatch  Recommended Items: Bluetooth_Over-Ear_Headphones Phone_Case Screen_Protector Tablet 
+Mason Anderson: Purchased Items: Charger_(Wall_Adapter) Phone_Case Tablet  Recommended Items: Charging_Cable_(USB-C_/_Lightning) Screen_Protector 
+Mason Johnson: Purchased Items: Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) Phone_Case Portable_Power_Bank Screen_Protector Tablet  Recommended Items: Bluetooth_Earbuds 
+Mason Smith: Purchased Items: Bluetooth_Earbuds Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) Phone_Case Screen_Protector Smartphone  Recommended Items: Portable_Power_Bank Wireless_Charger 
+Mason Wilson: Purchased Items: Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) Phone_Case Portable_Power_Bank Screen_Protector Smartwatch  Recommended Items: Bluetooth_Earbuds Tablet 
+Noah Davis: Purchased Items: Charger_(Wall_Adapter) Portable_Power_Bank Smartwatch  Recommended Items: Phone_Case 
+Noah Martinez: Purchased Items: Bluetooth_Earbuds Charging_Cable_(USB-C_/_Lightning) Phone_Case Wireless_Charger  Recommended Items: Screen_Protector 
+Noah Miller: Purchased Items: Bluetooth_Earbuds Bluetooth_Over-Ear_Headphones Charger_(Wall_Adapter) Charging_Cable_(USB-C_/_Lightning) Phone_Case Tablet  Recommended Items: Screen_Protector 
+Noah Smith: Purchased Items: Bluetooth_Earbuds Screen_Protector Smartphone Tablet Wireless_Charger  Recommended Items: Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) Phone_Case Portable_Power_Bank Smartwatch 
+Noah Wilson: Purchased Items: Bluetooth_Earbuds Charging_Cable_(USB-C_/_Lightning) Phone_Case Phone_Grip Screen_Protector Smartwatch  Recommended Items: Bluetooth_Over-Ear_Headphones Portable_Power_Bank Tablet Wireless_Charger 
+Nora Anderson: Purchased Items: Bluetooth_Earbuds Bluetooth_Over-Ear_Headphones Screen_Protector Wireless_Charger  Recommended Items: Charging_Cable_(USB-C_/_Lightning) 
+Nora Brown: Purchased Items: Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) Screen_Protector Smartphone Smartwatch Tablet  Recommended Items: Phone_Case Portable_Power_Bank Wireless_Charger 
+Nora Miller: Purchased Items: Bluetooth_Earbuds Phone_Case Phone_Grip Portable_Power_Bank Smartwatch Wireless_Charger  Recommended Items: Charging_Cable_(USB-C_/_Lightning) Screen_Protector Tablet 
+Nora Smith: Purchased Items: Charger_(Wall_Adapter) Phone_Grip Portable_Power_Bank Smartphone Smartwatch  Recommended Items: Phone_Case Tablet 
+Olivia Anderson: Purchased Items: Screen_Protector Smartwatch  Recommended Items: Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) Phone_Case Tablet 
+Olivia Brown: Purchased Items: Bluetooth_Over-Ear_Headphones Smartwatch  Recommended Items: Charging_Cable_(USB-C_/_Lightning) Screen_Protector Tablet 
+Olivia Garcia: Purchased Items: Bluetooth_Earbuds Phone_Case Phone_Grip  Recommended Items: Charging_Cable_(USB-C_/_Lightning) Screen_Protector Smartwatch 
+Olivia Miller: Purchased Items: Bluetooth_Earbuds Charger_(Wall_Adapter) Charging_Cable_(USB-C_/_Lightning) Smartphone Tablet  Recommended Items: Bluetooth_Over-Ear_Headphones Phone_Case Screen_Protector Smartwatch 
+Olivia Smith: Purchased Items: Phone_Grip Portable_Power_Bank Screen_Protector  Recommended Items: Charging_Cable_(USB-C_/_Lightning) Phone_Case 
+Olivia Wilson: Purchased Items: Charger_(Wall_Adapter) Phone_Case Portable_Power_Bank Wireless_Charger  Recommended Items: Screen_Protector 
+Sophia Davis: Purchased Items: Bluetooth_Over-Ear_Headphones Charger_(Wall_Adapter) Charging_Cable_(USB-C_/_Lightning) Phone_Case Portable_Power_Bank Smartwatch  Recommended Items: Bluetooth_Earbuds Screen_Protector Tablet 
+Sophia Garcia: Purchased Items: Smartwatch Wireless_Charger  Recommended Items: Bluetooth_Earbuds 
+Sophia Martinez: Purchased Items: Bluetooth_Earbuds Phone_Case Portable_Power_Bank Tablet  Recommended Items: Charging_Cable_(USB-C_/_Lightning) Screen_Protector 
+Sophia Miller: Purchased Items: Bluetooth_Over-Ear_Headphones Charger_(Wall_Adapter) Charging_Cable_(USB-C_/_Lightning) Smartphone  Recommended Items: Phone_Case Screen_Protector 
+Sophia Smith: Purchased Items: Bluetooth_Earbuds Screen_Protector Smartwatch Tablet Wireless_Charger  Recommended Items: Bluetooth_Over-Ear_Headphones Charging_Cable_(USB-C_/_Lightning) Phone_Case Portable_Power_Bank 
